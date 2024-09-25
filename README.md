@@ -69,7 +69,7 @@ The following machine learning models were implemented:
 - 1. Random Forest Regressor
 - 2. Decision Tree Regressor
 - 3. Gradient Boosting Regressor
-- 4. Extra Trees Regressor
+- 4. Extra Tree Regressor
 - 5. Linear Regression
  
 ## Evaluation Metrics
